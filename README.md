@@ -42,59 +42,6 @@ Currently, I'm focusing on becoming an **AI/ML Engineer** and exploring areas li
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🎙️ Voice Assistant
-
-An AI-powered voice assistant designed to understand voice commands, recognize user intent, extract relevant information, and perform actions.
-
-**Focus:**
-`Speech Recognition` • `NLP` • `Intent Understanding` • `AI` • `FastAPI`
-
----
-
-### 🖼️ AI Image Tools
-
-Exploring and building AI-powered image processing tools such as background removal and image enhancement.
-
-**Focus:**
-`Computer Vision` • `Image Processing` • `Python` • `AI`
-
----
-
-### 🤖 AI/ML Projects
-
-A collection of projects and experiments while learning Machine Learning, NLP, and Generative AI.
-
----
-
-## 📚 Currently Learning
-
-```text
-Python
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-NLP
-   ↓
-Generative AI
-   ↓
-RAG & AI Agents
-   ↓
-MLOps
-```
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FenrirSK\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FenrirSK\&layout=compact\&theme=tokyonight)
 
 ---
 
